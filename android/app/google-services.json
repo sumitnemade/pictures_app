@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "94544592638",
+    "firebase_url": "https://corona-tracker-6433d.firebaseio.com",
+    "project_id": "corona-tracker-6433d",
+    "storage_bucket": "corona-tracker-6433d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94544592638:android:1df2bdddfbdf02b646efaf",
+        "android_client_info": {
+          "package_name": "com.sumit.pictures_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94544592638-9is5kvq26hv906fqhglksqvhbgrl4iqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJvgMN9j2mCjYLX-xS7JdUMsy_x-6YqeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94544592638-9is5kvq26hv906fqhglksqvhbgrl4iqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94544592638-b0uobcl03u323h18o7rhpbo8e5olihiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.nathancooper.voters"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94544592638:android:8728f971f0889ea446efaf",
+        "android_client_info": {
+          "package_name": "twilio.flutter.programmable_video_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94544592638-9is5kvq26hv906fqhglksqvhbgrl4iqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJvgMN9j2mCjYLX-xS7JdUMsy_x-6YqeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94544592638-9is5kvq26hv906fqhglksqvhbgrl4iqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94544592638-b0uobcl03u323h18o7rhpbo8e5olihiu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.nathancooper.voters"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

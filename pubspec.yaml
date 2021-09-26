@@ -1,0 +1,44 @@
+name: pictures_app
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #UI
+  cupertino_icons: ^1.0.3
+
+  #Firebase
+  firebase_core: ^1.6.0
+  firebase_auth: ^3.1.1
+  cloud_firestore: ^2.5.3
+  firebase_storage: ^10.0.3
+
+
+  # Services
+  provider: ^6.0.1
+  intl: ^0.17.0
+  pedantic: ^1.11.1
+  after_layout: ^1.1.0
+  cached_network_image: ^3.1.0
+  multi_image_picker: ^4.8.1
+  permission_handler: ^8.1.6
+  timeago: ^3.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.4
+
+flutter:
+
+  uses-material-design: true
